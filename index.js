@@ -1,1 +1,3 @@
-console.log('Hello world!')
+
+import logger from "./logger.js";
+logger('Hello world!!')
